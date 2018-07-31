@@ -1,0 +1,9 @@
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\obj\Debug\GeekRegistrationSystemCore.csprojResolveAssemblyReference.cache
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\bin\Debug\GeekRegistrationSystemCore.dll
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\bin\Debug\GeekRegistrationSystemCore.pdb
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\obj\Debug\GeekRegistrationSystemCore.dll
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\obj\Debug\GeekRegistrationSystemCore.pdb
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\bin\Debug\Autofac.dll
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\bin\Debug\Autofac.xml
+C:\Project\GeekRegistrationSystem\GeekRegistrationSystemCore\bin\Debug\Autofac.Integration.WebApi.xml
